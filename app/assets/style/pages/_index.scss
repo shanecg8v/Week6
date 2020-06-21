@@ -1,0 +1,38 @@
+.banner {
+
+    .banner-img {
+        position: absolute;
+        top: -77px;
+        bottom: 0;
+        background-image: url(../images/index-1.jpg);
+        background-size: cover;
+        background-position: center center;
+        z-index: -11;
+    }
+
+    .banner-content {
+        padding-top: 160px;
+        padding-bottom: 236px;
+    }
+}
+
+.director {
+    background-image: url(../images/index-5.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 150px 0 154px 0;
+}
+
+.product {
+    img {
+        width: 350px;
+        height: 350px;
+        object-fit: cover;
+    }
+
+    .sale {
+        top: 16px;
+        right: 16px;
+    }
+}

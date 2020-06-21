@@ -1,0 +1,34 @@
+.footer {
+    .subscribe {
+        padding: 84px 0;
+        background-image: url(../images/footer.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+        .h2 {
+            font-size: 48px;
+            line-height: 64px;
+        }
+
+        .email {
+            padding: 28px 1rem;
+            background: none;
+        }
+
+        .btn {
+            padding: 16px 44px;
+        }
+    }
+
+    .footer-bottom {
+        background: #000;
+        padding: 32px 0;
+
+        .logo {
+            color: #fff;
+            text-decoration: none;
+        }
+    }
+
+}
